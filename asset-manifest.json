@@ -1,0 +1,20 @@
+{
+  "files": {
+    "main.css": "/soupymomo/static/css/main.ef140faa.chunk.css",
+    "main.js": "/soupymomo/static/js/main.c34ef634.chunk.js",
+    "main.js.map": "/soupymomo/static/js/main.c34ef634.chunk.js.map",
+    "runtime-main.js": "/soupymomo/static/js/runtime-main.a1da09e4.js",
+    "runtime-main.js.map": "/soupymomo/static/js/runtime-main.a1da09e4.js.map",
+    "static/js/2.79d163a8.chunk.js": "/soupymomo/static/js/2.79d163a8.chunk.js",
+    "static/js/2.79d163a8.chunk.js.map": "/soupymomo/static/js/2.79d163a8.chunk.js.map",
+    "index.html": "/soupymomo/index.html",
+    "static/css/main.ef140faa.chunk.css.map": "/soupymomo/static/css/main.ef140faa.chunk.css.map",
+    "static/js/2.79d163a8.chunk.js.LICENSE.txt": "/soupymomo/static/js/2.79d163a8.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.a1da09e4.js",
+    "static/js/2.79d163a8.chunk.js",
+    "static/css/main.ef140faa.chunk.css",
+    "static/js/main.c34ef634.chunk.js"
+  ]
+}
